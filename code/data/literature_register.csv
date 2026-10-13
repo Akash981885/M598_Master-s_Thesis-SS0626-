@@ -1,0 +1,4 @@
+
+paper_id,paper_title,authors,year,journal_or_publisher,doi_or_url,search_database,screening_decision,exclusion_reason
+P001,"Evaluating organizational phishing awareness training on an enterprise scale","Doron Hillman; Yaniv Harel; Eran Toch",2023,"Computers & Security","https://doi.org/10.1016/j.cose.2023.103364","Google Scholar","Include","Not applicable"
+P002,"Understanding the Efficacy of Phishing Training in Practice","Grant Ho; Ariana Mirian; Elisa Luo; Khang Tong; Euyhyun Lee; Lin Liu; Christopher A. Longhurst; Christian Dameff; Stefan Savage; Geoffrey M. Voelker",2025,"2025 IEEE Symposium on Security and Privacy (SP)","https://doi.org/10.1109/SP61157.2025.00076","Google Scholar","Include",""

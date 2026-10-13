@@ -1,0 +1,30 @@
+
+Dissertation topic:
+Human Factors in Cybersecurity: The Role of Employee Awareness in Reducing Cyber Threats
+
+Research question:
+How does employee cybersecurity awareness influence human-related cybersecurity risks in organisations?
+
+Search terms:
+1. "cybersecurity awareness" AND employees
+2. "security awareness training" AND phishing
+3. "human factors" AND cybersecurity
+4. "security culture" AND employee behaviour
+5. "employee security behaviour" AND organisations
+
+Suggested academic databases:
+- Google Scholar
+- IEEE Xplore
+- ACM Digital Library
+- Scopus, if available through the university
+
+Inclusion criteria:
+- Direct relevance to employee cybersecurity awareness or human factors.
+- Peer-reviewed journal articles or relevant conference papers.
+- Full bibliographic details and accessible evidence.
+- Findings that contribute to one or more research themes.
+
+Exclusion criteria:
+- Duplicate publications.
+- Studies unrelated to organisational or employee cybersecurity.
+- Sources without enough bibliographic information to verify.

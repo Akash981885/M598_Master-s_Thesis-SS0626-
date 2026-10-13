@@ -1,0 +1,9 @@
+paper_id,year,topic,findings,source_type,candidate_themes,matched_keywords,manual_review_required
+P001,2024,Phishing,Human error can expose organisations to phishing attacks.,Journal,Human Error,human error; phishing,True
+P002,2023,Awareness Training,Regular training may improve recognition of suspicious emails.,Journal,Awareness Programmes,training; recognition,True
+P003,2025,Security Culture,Leadership support can encourage secure employee behaviour.,Journal,Security Culture,leadership; secure employee behaviour,True
+P004,2024,Password Security,Weak passwords and poor password practices create risks.,Journal,Human Error,weak passwords; password practices,True
+P005,2025,Awareness Training,Practical exercises can help employees recognise cyber threats.,Journal,Awareness Programmes,practical exercises,True
+P006,2023,Security Culture,Clear policies can support cybersecurity compliance.,Journal,Security Culture,policies; compliance,True
+P007,2024,Social Engineering,Employees may be manipulated into revealing sensitive information.,Journal,,,True
+P008,2025,Awareness Training,Training effectiveness should be evaluated using behavioural measures.,Journal,Awareness Programmes,training; behavioural measures,True
